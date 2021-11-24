@@ -1,0 +1,4 @@
+User name	Console Password	Access key ID	Secret access key	Bucket Details
+dummy1	yBw^4(kr_mYY8RZ	AKIA4YPPQ7YXYTECL7X5	OC2wIMlneri4Z9y39UDnHJ6rivddj1XUYcQtJVii	s3://randombucketnew/dummyrandom1/
+dummy2	y#$-05zYnbKOtJh	AKIA4UGQW7YXZGUK6XVC	LP5sKxCtKMSqY9YbJxVzWHHbCI2v74x1BGSiZvdf	s3://randombucketnew/dummyrandom2/
+dummy3	y(BTAyk9ut+z!OI	AKIA4UGQW7YXZSFXGLDD	OhF2WzzY3LUpDh9Yf7uAxJYDqNkQTvlogAI+yaej	s3://randombucketnew/dummyrandom3/
